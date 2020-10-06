@@ -8,7 +8,8 @@
  * Text Domain:     elemwcm
  * Version:         0.1.0
  *
- * @package         Elemwcm
+ * Heavily borrowed from:
+ * https://github.com/seventhqueen/visibility-logic-elementor/blob/master/Elementor_Visibility_Control.php
  */
 
 
